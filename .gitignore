@@ -1,0 +1,3 @@
+data/*
+!data/tinychen.txt
+.DS_Store
